@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+
+#for databases
+sqlalchemy
+
+#for env var
+python-dotenv
